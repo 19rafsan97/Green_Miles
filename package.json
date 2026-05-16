@@ -1,0 +1,10 @@
+{
+  "name": "green-miles-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Flutter app workspace with Supabase tooling support",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.103.0"
+  }
+}
